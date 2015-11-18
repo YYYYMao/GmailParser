@@ -80,7 +80,7 @@ if __name__ == "__main__":
     r.login()
     r.getMessage()
     r.parseMessage()
-
+    r.quit()
 
 
 
